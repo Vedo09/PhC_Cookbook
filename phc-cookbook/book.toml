@@ -1,0 +1,6 @@
+[book]
+authors = ["Vedo09"]
+language = "en"
+multilingual = false
+src = "src"
+title = "PhC_Cookbook"
